@@ -32,6 +32,12 @@
 
 ---
 
+## 🎮 About the Game
+
+Help Madeline survive her inner demons on her journey to the top of Celeste Mountain, in this super-tight platformer from the creators of TowerFall. Brave hundreds of hand-crafted challenges, uncover devious secrets, and piece together the mystery of the mountain.
+
+---
+
 ## ❌ Problem: Games are expensive and require internet
 
 - **High Cost** — Full-price games cost $60–70 at launch
@@ -89,10 +95,13 @@
 
 | **Component** | **Windows** | **macOS** |
 |---------------|-------------|-----------|
-| **OS** | Windows 10/11 (64-bit) | macOS 12 Monterey or later |
-| **RAM** | 8 GB+ | 8 GB+ |
-| **Storage** | 2 GB free | 2 GB free |
-| **Processor** | Intel i5 / AMD Ryzen 5 | Intel or Apple Silicon |
+| **OS** | — | Lion 10.7.5, 32/64-bit |
+| **Processor** | Intel Core i3 M380 | Intel Core i3 M380 |
+| **Memory** | 2 GB RAM | 2 GB RAM |
+| **Graphics** | Intel HD 4000 | OpenGL 3.0+ (2.1 with ARB extensions acceptable) |
+| **DirectX** | Version 10 | Version 10 |
+| **Storage** | 1200 MB available space | 1200 MB available space |
+| **OS *** | Windows 7 or newer | Windows 7 or newer |
 
 ---
 
